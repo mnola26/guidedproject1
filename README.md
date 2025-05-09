@@ -1,5 +1,7 @@
 The goal of this project was to convert the JSON file into a shapefile using Python so that it can be used in ArcGIS Pro. Since the JSON file included WKT, which cannot be directly imported into ArcGIS Pro, a custom code was needed to be able to process it and use it.
 
+The code is included in this repository. There is the Jupyter Notebook as well as the Python toolbox for ArcGIS Pro.
+
 **Code Development**
 - I loaded the JSON file using Python's json module
 - I extracted the geometry and attribute data
