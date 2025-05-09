@@ -9,7 +9,7 @@ The code is included in this repository. There is the Jupyter Notebook as well a
 - I created a shapefile using arcpy.da.InsertCursor()
 - I skipped records with invalid or empty WKT using try-except
 - After verifying that the code worked, I put it into a Python Toolbox in ArcGIS Pro
-- I used the JSON file as the input perameter and created an output for the shapefile path
+- I used the JSON file as the input parameter and created an output for the shapefile path
 
 **Using the Code**
 
